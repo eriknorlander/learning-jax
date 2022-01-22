@@ -1,0 +1,9 @@
+jax
+flax
+optax
+tensorflow
+scikit-learn
+notebook
+ipywidgets
+widgetsnbextension
+jupyter_client
